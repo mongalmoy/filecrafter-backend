@@ -28,7 +28,7 @@
 
 ## 🗂️ Project Structure
 
-<pre>```filecrafter-backend/
+<pre>filecrafter-backend/
 ├── controllers/
 │ └── folderController.js
 ├── routes/
@@ -40,7 +40,7 @@
 ├── .gitignore
 ├── app.js
 ├── package.json
-└── README.md```</pre>
+└── README.md</pre>
 
 ---
 
