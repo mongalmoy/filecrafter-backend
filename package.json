@@ -1,0 +1,24 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "This is an folder structure manger backend app",
+  "homepage": "https://github.com/mongalmoy/filecrafter-backend#readme",
+  "bugs": {
+    "url": "https://github.com/mongalmoy/filecrafter-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mongalmoy/filecrafter-backend.git"
+  },
+  "license": "MIT",
+  "author": "Mongalmoy Karmakar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
